@@ -1,4 +1,3 @@
-The trained model files (.pkl) were not uploaded due to GitHub’s file size limitations. Re-run "train.py" to generate them.
 Note: Model `.pkl` files are not included in the repository due to GitHub's file size limits.
 Please run `train.py` to generate the following files before running GUI or Deployment:
 
